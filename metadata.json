@@ -1,0 +1,59 @@
+{
+  "siteId": "sichuan-hunan-spicy-journey",
+  "generatedAt": "2026-06-02T15:38:14.302563",
+  "categories": [
+    "beginner-sichuan-hunan-spicy-journey",
+    "advanced-sichuan-hunan-spicy-journey",
+    "tips-sichuan-hunan-spicy-journey",
+    "history-sichuan-hunan-spicy-journey",
+    "trending-sichuan-hunan-spicy-journey",
+    "tutorials-sichuan-hunan-spicy-journey"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-sichuan-hunan-spicy-journey",
+      "category_name": "Beginner Sichuan Hunan Spicy Journey"
+    },
+    {
+      "category_slug": "advanced-sichuan-hunan-spicy-journey",
+      "category_name": "Advanced Sichuan Hunan Spicy Journey"
+    },
+    {
+      "category_slug": "tips-sichuan-hunan-spicy-journey",
+      "category_name": "Sichuan Hunan Spicy Journey Tips"
+    },
+    {
+      "category_slug": "history-sichuan-hunan-spicy-journey",
+      "category_name": "Sichuan Hunan Spicy Journey History"
+    },
+    {
+      "category_slug": "trending-sichuan-hunan-spicy-journey",
+      "category_name": "Trending Sichuan Hunan Spicy Journey"
+    },
+    {
+      "category_slug": "tutorials-sichuan-hunan-spicy-journey",
+      "category_name": "Sichuan Hunan Spicy Journey Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "sichuan-hunan-spicy-journey",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "topbar",
+    "site_title": "Sichuan Hunan Spicy Journey Central",
+    "articles_per_row": 2
+  }
+}
